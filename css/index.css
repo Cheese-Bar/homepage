@@ -502,6 +502,8 @@ blockquote p {
     width: 82.5%;
     float: right;
     margin-right: 0;
+    -webkit-box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
+    box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
   }
   .page .page-title {
     padding: 0 3.6rem;
@@ -706,13 +708,15 @@ blockquote p {
 }
 @media (min-width: 34em) {
   .side-card {
-    width: 15.805%;
+    width: 16.805%;
     min-width: 165px;
     float: left;
-    margin-right: 1.69492%;
+    margin-right: 0.05%;
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
+    -webkit-box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
+    box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
   }
   .side-card .card-wrap {
     padding: 5px 5px 5px 5px;
