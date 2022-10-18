@@ -1,5 +1,5 @@
-https://cheese-bar.github.io/test/index.html
 https://cheese-bar.github.io/2022/10/14/hello-world/
 https://cheese-bar.github.io/2022/10/14/Publications/
+https://cheese-bar.github.io/Miscellany/index.html
 https://cheese-bar.github.io/2022/10/14/any-title/
 https://cheese-bar.github.io/
